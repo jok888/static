@@ -1,0 +1,127 @@
+{
+  "domain": "https://fastly.jsdelivr.net/gh/jok888/static/",
+  "certificates": [
+    "◎ 精品月嫂",
+    "◎ 无痛催乳+母乳指导"
+  ],
+  "avatar": "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/avatar.jpg",
+  "name": "丁永丽",
+  "tag": "精品月嫂",
+  "infos": [
+    {
+      "classname": "shengri",
+      "value": "36岁"
+    },
+    {
+      "classname": "jiguan",
+      "value": "龙岩市长汀县"
+    },
+    {
+      "classname": "minzu",
+      "value": "汉族"
+    },
+    {
+      "classname": "xingzuo",
+      "value": "带过 20+ 个宝宝"
+    }
+  ],
+  "personal": [
+    "姓名：丁永丽",
+    "年龄：36岁",
+    "语言：普通话",
+    "常住：龙岩市长汀县",
+    "持有证书：无痛催乳+母乳指导，精品月嫂",
+    "性格特点：我是一个善良且随和的人，具有强烈的责任心和出色的沟通能力。我讲话清晰、普通话标准，善于交流，且举止得体有礼，总是以得体有礼的方式与人相处。我喜欢用心对待每一位客户，注重细节，努力提供最好的服务体验。",
+    "专业技能：我比较擅长用简单的食材来合理搭配月子餐，宝妈开奶，乳腺疏通，乳房护理，以保证宝宝口粮优质。顺产宝妈的侧切和撕裂护理，新生儿黄疸观察及护理，皮肤清洁护理，宝宝肠胀气护理和睡眠培养以及宝宝的认知能力，希望有缘为您服务。",
+    "服务年限：从事母婴护理工作中，护理过 20 多个宝宝，凭着专业的技能和优质的服务，获得了客户的一致好评！",
+    "护理技能：护理过足月儿、早产儿、双胞胎、湿疹、热疹、汗疱疹的宝宝；护理过高血压、妊娠糖尿病的宝妈等等；产前、产中、产后的陪护开奶、通乳 、乳头皲裂 、急慢性乳腺炎的护理等。",
+    "护理内容：主要是护理产妇和新生儿",
+    {
+      "title": "产妇护理：",
+      "content": [
+        "1、月子餐：根据每位宝妈的体质来制定不同的月子餐，合理调制营养饮食，制作可口的月子餐和月子汤。",
+        "2、产后开奶：协助母乳喂养，指导产妇正确喂养的姿势。",
+        "3、乳房护理：开奶，生理性大涨奶疏通，无痛排奶，预防乳腺炎症。",
+        "4、帮产妇观察恶露、伤口护理。",
+        "5、根据产妇体质调理，产后心理疏导，关注和稳定宝妈情绪。",
+        "6、下户前护理技能交接教家长学会怎样育儿。"
+      ]
+    },
+    {
+      "title": "新生儿护理：",
+      "content": [
+        "1、重点是观察黄疸（生理性黄疸、病理性黄疸还是母乳性黄疸）并针对性护理、二便及红屁屁预防。",
+        "2、预防消化不良，肠胀气，肠绞痛等各种生理变化，用心耐心护理。",
+        "3、新生儿洗澡，抚触，按摩，脐带消毒护理，臀部护理。",
+        "4、哺乳护理：能有效引导正确含奶，并有效应对溢奶、吐奶、呛奶、胀气等情况。",
+        "5、大便护理：大小便护理并基于二便情况观察宝宝生长发育情况。",
+        "6、皮肤护理：熟悉各类疹子、臀部及皮肤褶皱处问题的判别及护理。",
+        "7、洗浴抚触：能正确给宝宝进行洗浴及全方面抚触、引导游泳。",
+        "8、给宝宝建立良好的科学喂养和睡眠的习惯，鼓励亲喂，拒绝过度喂养。"
+      ]
+    },
+    "我始终全心全意地关照每一位宝妈和宝宝。我对我的职责充满热忱，总是带着乐观和阳光的态度，细致地照顾每个小宝贝，确保他们健康快乐地成长。我处理事务时既细心又耐心，希望通过我的真诚得到应有的认可。我热爱烹饪，工作高效，不计较小利。我也在不断学习和成长，努力满足雇主的期望，并以最真诚的心态接待每一位客户。"
+
+  ],
+  "materials": {
+    "certs": [
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/certs/1.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/certs/2.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/certs/3.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/certs/4.jpg"
+    ],
+    "cook": [
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_1.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_2.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_3.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_4.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_5.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_6.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_7.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_8.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_9.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_10.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_11.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_12.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_13.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_14.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_15.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_16.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_17.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_18.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_19.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_20.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_21.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_22.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_23.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_24.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_25.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_26.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_27.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_28.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_29.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_30.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_31.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_32.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_33.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_34.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_35.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_36.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_37.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_38.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/cook/img_39.jpg"
+    ],
+    "wenxin": [
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/wenxin/img_1.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/wenxin/img_2.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/wenxin/img_3.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/wenxin/img_4.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/wenxin/img_5.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/wenxin/img_6.jpg",
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/wenxin/img_7.jpg"
+    ],
+    "pingjia": [
+      "https://fastly.jsdelivr.net/gh/jok888/static/dingyongli/pingjia/img_1.jpg"
+    ]
+  }
+}
