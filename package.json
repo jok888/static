@@ -1,6 +1,6 @@
 {
   "name": "static",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "main": "index.js",
   "repository": "git@github.com:jok888/static.git",
   "author": "jok888 <15980404746@163.com>",
